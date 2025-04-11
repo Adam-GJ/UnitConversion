@@ -1,0 +1,6 @@
+kilogram,kg,kg,kg^1,x
+second,s,s,s^1,x
+metre,m,m,m^1,x
+inch,in,in,m^1,x * 2.54e-2
+foot,ft,ft,m^1,x * 30.48e-2
+yard,yd,yard,m^1,x * 9.144e-1
