@@ -2,6 +2,6 @@ Unit Name,Symbol,Matches,SI Units,Formula,FormulaInv
 kilogram,kg,kg,kg^1,x,x
 second,s,s,s^1,x,x
 metre,m,m,m^1,x,x
-inch,in,in,m^1,x * Decimal(2.54e-2),Decimal(2.54e-2) / x
-foot,ft,ft,m^1,x * Decimal(30.48e-2),Decimal(30.48e-2) / x
+inch,in,in,m^1,x * 2.54e-2,2.54e-2 / x
+foot,ft,ft,m^1,x * 30.48e-2,30.48e-2 / x
 yard,yd,yard,m^1,x * 9.144e-1,9.144e-1 / x
