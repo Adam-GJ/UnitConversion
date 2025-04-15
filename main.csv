@@ -2,6 +2,6 @@ Unit Name,Symbol,Matches,SI Units,Formula,FormulaInv
 kilogram,kg,kg,kg^1,x,x
 second,s,s,s^1,x,x
 metre,m,m,m^1,x,x
-inch,in,in,m^1,mul(x' 2.54e-2),div(2.54e-2' x)
+inch,in,in,m^1,mul(x' 2.54e-2),div(x' 2.54e-2)
 foot,ft,ft,m^1,mul(x' 30.48e-2),div(x' mul(12' 2.54e-2))
 yard,yd,yard,m^1,mul(x' 9.144e-1),div(9.144e-1' x)
